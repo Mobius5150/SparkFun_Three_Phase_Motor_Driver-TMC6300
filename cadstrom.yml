@@ -5,6 +5,6 @@ project:
   boards:
     - file: Hardware/SparkFun_TMC6300_Breakout.brd
       dru:
-        file: Hardware/Production/SparkFun_TMC6300_Breakout.dru
+        file: sparkfun-2layer.dru
   schematics:
     - file: Hardware/SparkFun_TMC6300_Breakout.sch
