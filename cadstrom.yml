@@ -1,0 +1,10 @@
+# Cadstrom.yml file. Reference: https://cadstrom.io/docs/reference/yaml-reference
+version: 1.1
+project:
+  type: eagle
+  boards:
+    - file: Hardware/SparkFun_TMC6300_Breakout.brd
+      dru:
+        file: Hardware/Production/SparkFun_TMC6300_Breakout.dru
+  schematics:
+    - file: Hardware/SparkFun_TMC6300_Breakout.sch
